@@ -1,5 +1,3 @@
-# Url Shortener
-___
+#URL Shortener
 
-- type `npm start` in terminal to start express server
-- open `localhost:1337` in your browser
+type `npm start` in console and open `localhost:1337` in your browser
